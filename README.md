@@ -4,9 +4,14 @@ voice-powered AI memecoin advisor & unlimited answers
 1. Download zip or clone the repository
    ```bash
    https://github.com/ALVACHAT/ALVA-Beta
-4. Open terminal and use this commands
+2. Open terminal and download libraries
+   ```bash
+   pip install customtkinter openai pyttsx3 SpeechRecognition
+3. Speech recognition and voice responses:
+   ```bash
+   pip install pipwin
+   pipwin install pyaudio
 
-pip install customtkinter openai pyttsx3 SpeechRecognition
+4. if everything is ready, open the alva.py
 
-pip install pipwin
-pipwin install pyaudio
+
