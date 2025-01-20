@@ -13,8 +13,10 @@ It integrates voice synthesis, speech recognition, and OpenAI's GPT-4 for enhanc
 ---
 
 ## Installation
+1. **Download Zip**:
+   Download and extract zip
 
-1. **Install Python**:  
+2. **Install Python**:  
    Download and install Python (version 3.8 or later) from the [official website](https://www.python.org/downloads/).  
    During installation, ensure you check the option **"Add Python to PATH"**.  
 
@@ -30,15 +32,15 @@ It integrates voice synthesis, speech recognition, and OpenAI's GPT-4 for enhanc
      sudo apt update && sudo apt install python3 python3-pip
      ```
 
-2. **Install Dependencies**:  
+3. **Install Dependencies**:  
    Run the following command to install all necessary Python libraries:
    ```bash
    pip install customtkinter pyttsx3 matplotlib requests SpeechRecognition openai rapidfuzz Pillow numpy
 
-3. **Set Up API Key**:
+4. **Set Up API Key**:
 Replace "API-OpenAI" in the code with your OpenAI API key or input it via the app's settings window.
 
-4. **Run the Application**:
+5. **Run the Application**:
 Execute the Python file in your terminal:
    ```bash
    python ALVA v2.0.py
