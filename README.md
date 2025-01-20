@@ -90,3 +90,7 @@ Execute the Python file in your terminal:
 - **`Close`**  
   Exits the application.
 
+**issues**
+
+if it doesn't work, make sure you have downloaded the latest version of python and double-click the alva.py file
+
