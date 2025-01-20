@@ -44,4 +44,27 @@ Replace "API-OpenAI" in the code with your OpenAI API key or input it via the ap
 Execute the Python file in your terminal:
    ```bash
    python ALVA v2.0.py
+6. **Commands**:
+
+Market Analysis
+"Analyze Bitcoin trend": Analyzes the price trend of Bitcoin.
+"Ethereum price prediction": Provides a price prediction for Ethereum.
+"Dogecoin market trend": Analyzes the market trend for Dogecoin.
+"Solana price prediction": Provides a price prediction for Solana.
+Chart Commands
+"Show Bitcoin chart": Displays the price chart for Bitcoin for the last 7 days.
+"Draw Ethereum chart": Generates the price chart for Ethereum for the last 7 days.
+"Dogecoin price chart": Displays the Dogecoin price chart for the last 7 days.
+"Cardano chart": Shows the price chart for Cardano for the last 7 days.
+Voice Commands
+"Enable voice": Turns on voice synthesis for spoken responses.
+"Disable voice": Turns off voice synthesis.
+"Listen to me": Activates speech recognition to allow voice input from the user.
+General Commands
+"What is Bitcoin?": Provides an explanation of Bitcoin.
+"Tell me about Ethereum": Provides general information about Ethereum.
+System Commands
+"Settings": Opens the settings window, where you can change your API key.
+"Clear": Clears the chat window.
+"Close": Closes the application.
 
