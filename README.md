@@ -41,7 +41,7 @@ It integrates voice synthesis, speech recognition, and OpenAI's GPT-4 for enhanc
 Replace "API-OpenAI" in the code with your OpenAI API key or input it via the app's settings window.
 
 5. **Run the Application**:
-Execute the Python file in your terminal:
+Execute the Python file in your terminal or open alva.py file:
    ```bash
    python ALVA v2.0.py
 6. **Commands**:
