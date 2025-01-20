@@ -46,25 +46,47 @@ Execute the Python file in your terminal:
    python ALVA v2.0.py
 6. **Commands**:
 
-Market Analysis
-"Analyze Bitcoin trend": Analyzes the price trend of Bitcoin.
-"Ethereum price prediction": Provides a price prediction for Ethereum.
-"Dogecoin market trend": Analyzes the market trend for Dogecoin.
-"Solana price prediction": Provides a price prediction for Solana.
-Chart Commands
-"Show Bitcoin chart": Displays the price chart for Bitcoin for the last 7 days.
-"Draw Ethereum chart": Generates the price chart for Ethereum for the last 7 days.
-"Dogecoin price chart": Displays the Dogecoin price chart for the last 7 days.
-"Cardano chart": Shows the price chart for Cardano for the last 7 days.
-Voice Commands
-"Enable voice": Turns on voice synthesis for spoken responses.
-"Disable voice": Turns off voice synthesis.
-"Listen to me": Activates speech recognition to allow voice input from the user.
-General Commands
-"What is Bitcoin?": Provides an explanation of Bitcoin.
-"Tell me about Ethereum": Provides general information about Ethereum.
-System Commands
-"Settings": Opens the settings window, where you can change your API key.
-"Clear": Clears the chat window.
-"Close": Closes the application.
+## Commands
+
+### 📈 Cryptocurrency Market Analysis
+- **`Analyze Bitcoin trend`**  
+  Provides an analysis of the recent Bitcoin price trend.
+- **`Ethereum price prediction`**  
+  Predicts Ethereum's price changes based on market trends.
+- **`Dogecoin market trend`**  
+  Analyzes the current market trends for Dogecoin.
+- **`Solana price prediction`**  
+  Provides a prediction of Solana's price for the upcoming days.
+
+### 📊 Chart Commands
+- **`Show Bitcoin chart`**  
+  Displays a 7-day price chart for Bitcoin.
+- **`Draw Ethereum chart`**  
+  Generates a 7-day price chart for Ethereum.
+- **`Dogecoin price chart`**  
+  Shows the historical prices of Dogecoin over the last 7 days.
+- **`Cardano chart`**  
+  Plots the 7-day price trend for Cardano.
+
+### 🎤 Voice Commands
+- **`Enable voice`**  
+  Activates voice synthesis for spoken responses from the assistant.
+- **`Disable voice`**  
+  Deactivates voice synthesis.
+- **`Listen to me`**  
+  Enables speech recognition to accept voice input from the user.
+
+### 🤖 General Commands
+- **`What is Bitcoin?`**  
+  Provides a brief explanation of Bitcoin and its use cases.
+- **`Tell me about Ethereum`**  
+  Shares general information about Ethereum and its technology.
+
+### ⚙️ System Commands
+- **`Settings`**  
+  Opens the settings menu where you can configure your OpenAI API key and other options.
+- **`Clear`**  
+  Clears the chat history in the application.
+- **`Close`**  
+  Exits the application.
 
