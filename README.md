@@ -44,7 +44,7 @@ Replace "API-OpenAI" in the code with your OpenAI API key or input it via the ap
 Execute the Python file in your terminal or **`open alva.py`** file:
    ```bash
    python ALVA v2.0.py
-6. **Commands**:
+
 
 ## Commands
 
